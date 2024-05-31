@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="438.0" styleClass="background" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.MainMenuController" stylesheets="@style.css">
+    <children>
+        <VBox alignment="CENTER" spacing="20.0" layoutX="50.0" layoutY="50.0" prefWidth="338.0">
+            <Text text="Головне Меню" styleClass="main-menu-title" />
+            <Button mnemonicParsing="false" onAction="#addBouquet" text="Додати Букет" styleClass="menu-button" prefWidth="250.0" fx:id="addBouquet" />
+            <Button mnemonicParsing="false" onAction="#addStandartBouquetButton" text="Стандартні Букети" styleClass="menu-button" prefWidth="250.0" fx:id="addStandartBouquetButton" />
+            <Button mnemonicParsing="false" onAction="#deleteBouquetButton" text="Видалити Букет" styleClass="menu-button" prefWidth="250.0" fx:id="deleteBouquetButton" />
+            <Button mnemonicParsing="false" onAction="#showOrder" text="Показати Замовлення" styleClass="menu-button" prefWidth="250.0" fx:id="showOrder" />
+            <Button mnemonicParsing="false" onAction="#payOrderButton" text="Оплатити Замовлення" styleClass="menu-button" prefWidth="250.0" fx:id="payOrderButton" />
+            <Button mnemonicParsing="false" onAction="#cancelOrder" text="Скасувати Замовлення" styleClass="menu-button" prefWidth="250.0" fx:id="cancelOrder" />
+            <Button mnemonicParsing="false" onAction="#exit" text="Вихід" styleClass="menu-button" prefWidth="250.0" fx:id="exit" />
+        </VBox>
+    </children>
+</AnchorPane>

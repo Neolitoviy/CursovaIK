@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_12.6.2.0_enu.zip!/sqljdbc_12.6/enu/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/sqljdbc_12.6.2.0_enu.zip!/sqljdbc_12.6/enu/jars" recursive="false" />
+  </library>
+</component>

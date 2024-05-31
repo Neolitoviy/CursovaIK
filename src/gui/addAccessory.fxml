@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<AnchorPane prefHeight="600.0" prefWidth="438.0" styleClass="background" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.MainMenuController" stylesheets="@style.css">
+   <children>
+      <VBox alignment="CENTER" spacing="20.0" layoutX="50.0" layoutY="50.0" prefWidth="338.0">
+         <ChoiceBox fx:id="colorChoiceBox" prefWidth="250.0" />
+         <Button fx:id="addBowButton" mnemonicParsing="false" onAction="#addBow" text="Додати бантик" styleClass="menu-button" prefWidth="250.0" />
+         <Button fx:id="addFoilButton" mnemonicParsing="false" onAction="#addFoil" text="Додати фольгу" styleClass="menu-button" prefWidth="250.0" />
+         <Button fx:id="addStripButton" mnemonicParsing="false" onAction="#addStrip" text="Додати стрічку" styleClass="menu-button" prefWidth="250.0" />
+         <Button fx:id="backToBouquetButton" mnemonicParsing="false" onAction="#backToBouquet" text="Назад" styleClass="menu-button" prefWidth="250.0" />
+      </VBox>
+   </children>
+</AnchorPane>

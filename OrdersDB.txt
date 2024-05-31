@@ -1,0 +1,91 @@
+
+Card Number: 121212
+Bouquets: Bouquet:  redrose 3 
+Cost: 78.0
+
+Card Number: 5454545
+Bouquets: Bouquet:  redrose 3 
+Cost: 78.0
+
+Card Number: 4545144545
+Bouquets: Bouquet:  redrose 4 
+Cost: 104.0
+Bouquet:  blacktulip 10 
+Cost: 224.00000000000003
+
+Card Number: 4545454
+Bouquets: Bouquet:  redrose 5 
+Cost: 130.0
+
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: 111
+Bouquets: Bouquet:  redrose 3 
+Cost: 78.0
+
+Card Number: 222
+Bouquets: 
+Card Number: 2323
+Bouquets: 
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: 3
+Bouquets: Bouquet:  redrose 2 
+Cost: 52.0
+
+Card Number: UnitTest
+Bouquets: Bouquet:  redrose 1 
+Cost: 26.0
+
+Card Number: 1111
+Bouquets: Bouquet:  redrose 222 
+Cost: 5772.0
